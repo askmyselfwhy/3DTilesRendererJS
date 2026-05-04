@@ -1,8 +1,8 @@
 import { Q as jn, b as Xn, C as Yn, G as $n } from "./QuantizedMeshLoaderBase-Cn33qyYc.js";
 import { PlaneGeometry as rn, Mesh as Se, MeshBasicMaterial as _e, Vector2 as X, MathUtils as M, Vector3 as v, Sphere as de, Texture as Qn, SRGBColorSpace as Xt, TextureUtils as Kn, DefaultLoadingManager as Zn, BufferGeometry as Ve, MeshStandardMaterial as on, BufferAttribute as $, DataTexture as Yt, RGFormat as an, UnsignedByteType as ln, LinearMipMapLinearFilter as Jn, LinearFilter as cn, Triangle as $t, Vector4 as ke, Matrix4 as J, Matrix3 as ei, Matrix2 as ti, WebGLRenderer as si, WebGLRenderTarget as is, ShaderMaterial as ni, OneFactor as ii, ZeroFactor as ri, CustomBlending as oi, Box2 as ai, FileLoader as li, Quaternion as un, BatchedMesh as ci, Source as ui, Box3 as mt, REVISION as hi, WebGLArrayRenderTarget as rs, Raycaster as di, DoubleSide as at, CanvasTexture as Qt, Color as hn, Ray as pi, LineSegments as dn, LineBasicMaterial as fi, EdgesGeometry as mi, BoxGeometry as pn, Group as We, Box3Helper as gi, SphereGeometry as yi, PointsMaterial as xi } from "three";
 import { a as fn, c as Ti, W as bi, g as _i, O as Si, b as mn } from "./MemoryUtils-B_PcKuea.js";
-import { GLTFLoader as Mi } from "three/addons/loaders/GLTFLoader.js";
-import { FullScreenQuad as gn } from "three/addons/postprocessing/Pass.js";
+import { GLTFLoader as Mi } from "three/examples/jsm/loaders/GLTFLoader.js";
+import { FullScreenQuad as gn } from "three/examples/jsm/postprocessing/Pass.js";
 import { b as Ci, c as Ii, d as Ai, f as yn } from "./constants-CNHQJ8U_.js";
 import { c as Li, L as xn } from "./LoaderBase-ATuDWTDB.js";
 const fe = /* @__PURE__ */ new X(), xe = Symbol("TILE_X"), Te = Symbol("TILE_Y"), be = Symbol("TILE_LEVEL");

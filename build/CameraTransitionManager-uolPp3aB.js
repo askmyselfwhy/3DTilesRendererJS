@@ -1,7 +1,7 @@
 import { B as Ve, T as Le } from "./B3DMLoaderBase-BsPRd_IY.js";
 import { g as Ne, r as ke } from "./LoaderBase-ATuDWTDB.js";
 import { DefaultLoadingManager as Vt, Matrix4 as R, Vector3 as y, Vector2 as A, MathUtils as T, PointsMaterial as Be, BufferGeometry as He, BufferAttribute as st, Color as je, Points as Ge, InstancedMesh as Ze, Quaternion as it, Group as Pt, Ray as Lt, Sphere as qe, Frustum as Qe, Matrix3 as $e, LoadingManager as Ye, EventDispatcher as ft, Euler as Xe, Mesh as Ke, PlaneGeometry as Je, ShaderMaterial as ti, Plane as De, Raycaster as ei, PerspectiveCamera as te, OrthographicCamera as we, Clock as ii } from "three";
-import { GLTFLoader as Kt } from "three/addons/loaders/GLTFLoader.js";
+import { GLTFLoader as Kt } from "three/examples/jsm/loaders/GLTFLoader.js";
 import { PNTSLoaderBase as si, I3DMLoaderBase as oi, CMPTLoaderBase as ni } from "./index.core.js";
 import { W as Tt, O as ee, b as ri, e as ai, a as ci } from "./MemoryUtils-B_PcKuea.js";
 class Ce extends Ve {
